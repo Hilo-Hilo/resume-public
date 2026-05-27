@@ -1,9 +1,9 @@
 {
-  "committedAt": "2026-05-24T10:13:28+08:00",
-  "date": "2026-05-24",
+  "committedAt": "2026-05-27T09:36:57+08:00",
+  "date": "2026-05-27",
   "sourceRepo": "Hilo-Hilo/resume",
   "sourcePath": "digital-resume.tex",
-  "sourceCommit": "7988b89f9bb74e3daa518e86d9cda0aebdcecb72",
-  "publishedAt": "2026-05-24T02:15:29Z",
-  "sha256": "c57d0082cb84b9e1d73f25a5707cfc1363c9e4ec96f3da6f0bedf7edab95d4d7"
+  "sourceCommit": "15b4c6c7967eb100c2331fcfa6bd8c097d748f91",
+  "publishedAt": "2026-05-27T01:39:25Z",
+  "sha256": "da955ad6f8ff9de6d2b6e3273101a85fa9c055def97602f583eb4ef2c6fe3ba5"
 }
